@@ -1,5 +1,0 @@
-- Penanganan Error
-- Pengelolaan Stok
-- Logging dan Pelacakan Transaksi
-- Uji Kesalahan
-- Pengembangan Lanjutan
